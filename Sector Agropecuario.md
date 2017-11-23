@@ -10,7 +10,7 @@ Enfocar el uso correcto y la integridad de la informacion
 
 
 
-***Servicio que provea  informacion de como tratar plantas enfermas. Fitotecnia***
+**Servicio que provea  informacion de como tratar plantas enfermas. Fitotecnia**
 
 Algun usuario del servicio puede entrar al sitio web con el motivo de ver las enfermedades mas comunes en su zona de paso visitar el catalogo 
 de productos y ser referido a nuestros usuarios.
