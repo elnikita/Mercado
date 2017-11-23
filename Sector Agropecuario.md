@@ -9,7 +9,7 @@ Enfocar el uso correcto y la integridad de la informacion
 
 
 
-Servicio que provea  informacion de como tratar plantas enfermas. Fitotecnia
+***Servicio que provea  informacion de como tratar plantas enfermas. Fitotecnia***
 
 Algun usuario del servicio puede entrar al sitio web con el motivo de ver las enfermedades mas comunes en su zona de paso visitar el catalogo 
 de productos y ser referido a nuestros usuarios.
@@ -25,3 +25,13 @@ Recomendacion en general sobre tecnicas agricolas.
 Precio local de diferentes semillas. 
 
 Asociacion con cooperativas locales. 
+
+
+
+
+Contenido de ayuda:
+
+https://www.youtube.com/watch?v=a68Xr59W6n0
+
+https://www.youtube.com/results?search_query=sistema+de+gestion+agropecuaria+
+
