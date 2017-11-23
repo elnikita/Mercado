@@ -1,5 +1,6 @@
 Sistemas informaticos en el sector agropecuario
 -------------
+**Sistema de gestion de produccion**
 
 Definitivamente existen sistemas de informacion en el sector agropecuario. 
 
