@@ -37,7 +37,7 @@ Precio local de diferentes semillas.
 
 Asociacion con cooperativas locales.
 
-Contenido de ayuda:
+**Contenido de ayuda:
 
 "Tecnologías de Información y Comunicación (TIC) aplicadas en la Agricultura"
 https://www.youtube.com/watch?v=fIcVmZgorZg 
@@ -45,7 +45,7 @@ https://www.youtube.com/watch?v=fIcVmZgorZg
 "Factores estructurales de brechas TIC en agricultura"
 https://www.youtube.com/watch?v=a68Xr59W6n0
 
-**Keywords para busqueda:**
+Keywords para busqueda:
 
 "tics en agricultura"
 "ict in agriculture"
