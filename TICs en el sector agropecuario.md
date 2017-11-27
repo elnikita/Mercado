@@ -10,6 +10,7 @@ Sector agropecuario es la parte del sector primario compuesta por el sector agr√
 **Sistemas de informacion para empresas:**
 
 Definitivamente existen sistemas de informacion en el sector agropecuario.
+
 En Nicaragua se pueden dar los siguientes escenarios con respecto a la utilizacion del software para gestion agropecuaria:
 Empresas que no cuentan con sistemas de informacion. Recopilan datos en papeleria, hojas de excel, etc. 
 Empresas que ya cuentan con un sistema de informacion a los cuales nunca se les dio soporte, mantenimiento, etc. Soprendente que muchas empresas puedan realizar operaciones diarias con tantos problemas en el funcionamiento de sus sistemas. 
