@@ -1,5 +1,7 @@
 TICs en el sector agropecuario
 -------------
+Ojo, tomar informacion solo como referencia. Esto es un resumen de diferentes fuentes de informacion encontradas en internet. No se ha hecho un estudio de campo sobre problemas a resolver dentro del sector agropecuario Nicaraguense. 
+
 Microempresarios
 
 Pequenos y medianos empresarios
