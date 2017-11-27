@@ -1,4 +1,4 @@
-Sistemas informaticos en el sector agropecuario
+TICs en el sector agropecuario
 -------------
 Microempresarios
 Pequenos y medianos empresarios
