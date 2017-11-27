@@ -8,7 +8,7 @@ Sector agropecuario es la parte del sector primario compuesta por el sector agr√
 
 La agricultura se ejecuta en diferentes ambitos economicos dentro del mercado.
 
-La agricultura es el motor productivo de diferentes entidades empresariales de diferentes estratos economicos:
+La agricultura es el motor productivo de entidades empresariales de diferentes estratos economicos:
 
 Microempresas
 
