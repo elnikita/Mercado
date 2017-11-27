@@ -1,7 +1,9 @@
 TICs en el sector agropecuario
 -------------
 Microempresarios
+
 Pequenos y medianos empresarios
+
 Industrializados
 
 Definiciones:
