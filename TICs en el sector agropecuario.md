@@ -2,11 +2,16 @@ TICs en el sector agropecuario
 -------------
 Ojo, tomar informacion solo como referencia. Esto es un resumen de diferentes fuentes de informacion encontradas en internet. No se ha hecho un estudio de campo sobre problemas a resolver dentro del sector agropecuario Nicaraguense. 
 
-Microempresarios
+La agricultura se ejecuta en diferentes ambitos economicos dentro del mercado.
+La agricultura es el motor productivo de diferentes entidades empresariales de diferentes estratos economicos:
 
-Pequenos y medianos empresarios
+Microempresas
 
-Industrializados
+Pequena Empresa
+
+Mediana Empresa
+
+Empresas industrializadas
 
 Definiciones:
 Sector agropecuario es la parte del sector primario compuesta por el sector agrícola (agricultura) y el sector ganadero o pecuario (ganadería).
