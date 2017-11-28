@@ -79,9 +79,11 @@ Terminos claves para busqueda de informacion:
 
 ## Sistemas de gestion Latinoamericanos
 
+
 ## Sistemas de gestion de codigo abierto
 
 -Tania - PHP ( https://github.com/Tanibox/tania )
+
 -FarmOS - Drupal ( http://farmos.org/ )
 
 
