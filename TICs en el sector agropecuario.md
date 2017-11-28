@@ -1,6 +1,11 @@
 TICs en el sector agropecuario
 -------------
 
+= AsciiDoc Writer's Guide
+Doc Writer <doc.writer@asciidoctor.org>
+v1.0, 2013-08-01
+:toc:
+
 Sistemas informaticos para empresas
 Servicio de Fitosalud para Agricultores
 Contenido de ayuda
