@@ -31,6 +31,8 @@ Mediana Empresa
 
 Empresas industrializadas
 
+## Problemas generales
+
 ## Sistemas informaticos para empresas
 
 Definitivamente existen sistemas de informacion en el sector agropecuario.
@@ -93,5 +95,7 @@ Presentacion: https://www.youtube.com/watch?v=Dgb3YwGe9u8
 * Tania - PHP ( https://github.com/Tanibox/tania )
 
 * FarmOS - Drupal ( http://farmos.org/ )
+
+## Metodologias para estudio de campo 
 
 
