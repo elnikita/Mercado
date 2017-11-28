@@ -1,5 +1,18 @@
 TICs en el sector agropecuario
 -------------
+
+<!-- toc -->
+- [abc](#abc)
+- [xyz](#xyz)
+<!-- tocstop -->
+
+## abc
+This is a b c.
+
+## xyz
+This is x y z.
+
+
 Ojo, tomar informacion solo como referencia. Esto es un resumen de diferentes fuentes de informacion encontradas en internet. No se ha hecho un estudio de campo sobre problemas a resolver dentro del sector agropecuario Nicaraguense. 
 
 Definiciones:
