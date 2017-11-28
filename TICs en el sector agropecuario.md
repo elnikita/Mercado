@@ -7,7 +7,7 @@ TICs en el sector agropecuario
 - [Problemas generales](#problemas-generales)
 - [Sistemas informaticos para empresas](#sistemas-informaticos-para-empresas)
 - [Servicio de Fitosalud](#servicio-de-fitosalud)
-- [Contenido de ayuda](#1c)
+- [Recursos de referencia](#recursos-de-referencia)
 - [Sistemas de gestion Latinoamericanos](#sistemas-de-gestion-latinoamericanos)
 - [Sistemas de gestion de codigo abierto](#sistemas-de-gestion-de-codigo-abierto)
 <!-- tocstop -->
@@ -61,7 +61,9 @@ Precio local de diferentes semillas.
 
 Asociacion con cooperativas locales.
 
-## Contenido de ayuda:
+## Recursos de referencia:
+
+#Contenido audiovisual:
 
 "Tecnologías de Información y Comunicación (TIC) aplicadas en la Agricultura"
 https://www.youtube.com/watch?v=fIcVmZgorZg 
@@ -69,7 +71,7 @@ https://www.youtube.com/watch?v=fIcVmZgorZg
 "Factores estructurales de brechas TIC en agricultura"
 https://www.youtube.com/watch?v=a68Xr59W6n0
 
-Terminos claves para busqueda de informacion:
+# Terminos claves para busqueda de informacion:
 
 "tics en agricultura"
 
@@ -79,7 +81,7 @@ Terminos claves para busqueda de informacion:
 
 ## Sistemas de gestion Latinoamericanos
 
-Sismagro es un startup Argentino que creo un sistema web. 
+* Sismagro es un startup Argentino que creo un sistema web. 
 Lanzaron en 2016 y se mira bonito (http://www.sismagro.com/)
 Presentacion: https://www.youtube.com/watch?v=Dgb3YwGe9u8
 
