@@ -14,7 +14,7 @@ Software libre para gestion agropecuaria
 <!-- tocstop -->
 
 
-# 1a
+Sistemas informaticos para empresas
 
 ## Sistemas informaticos para empresas
 
@@ -44,7 +44,9 @@ Empresas industrializadas
 
 ----------
 
-## Sistemas informaticos para empresas
+
+Local files
+-----------
 
 Definitivamente existen sistemas de informacion en el sector agropecuario.
 
