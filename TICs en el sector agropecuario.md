@@ -7,7 +7,7 @@ Contenido de ayuda
 Software libre para gestion agropecuaria
 
 <!-- toc -->
-- [Sistemas informaticos para empresas](#1a)
+- [Sistemas informaticos para empresas](#Sistemas-informaticos-para-empresas)
 - [Servicio de Fitosalud para Agricultores](#1b)
 - [Contenido de ayuda](#1c)
 - [Software libre para gestion agropecuaria](#1d)
@@ -16,7 +16,7 @@ Software libre para gestion agropecuaria
 
 # 1a
 
-## Sistemas informaticos para empresas
+## Sistemas-informaticos-para-empresas
 
 ### A2
 
