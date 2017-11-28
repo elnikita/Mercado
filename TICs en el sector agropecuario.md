@@ -18,6 +18,7 @@ Mediana Empresa
 
 Empresas industrializadas
 
+----------
 
 **Sistemas de informacion para empresas:**
 
