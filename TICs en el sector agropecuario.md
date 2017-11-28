@@ -1,7 +1,7 @@
 TICs en el sector agropecuario
 -------------
 
-**Atencao**: tomar informacion solo como referencia. Esto es un resumen de diferentes fuentes de informacion encontradas en internet. No se ha hecho un estudio de campo sobre problemas a resolver dentro del sector agropecuario Nicaraguense. 
+**Atenção**: tomar informacion solo como referencia. Esto es un resumen de diferentes fuentes de informacion encontradas en internet. No se ha hecho un estudio de campo sobre problemas a resolver dentro del sector agropecuario Nicaraguense. 
 
 <!-- toc -->
 - [Problemas generales](#problemas-generales)
@@ -61,7 +61,7 @@ Precio local de diferentes semillas.
 
 Asociacion con cooperativas locales.
 
-## Contenido de ayuda:**
+## Contenido de ayuda:
 
 "Tecnologías de Información y Comunicación (TIC) aplicadas en la Agricultura"
 https://www.youtube.com/watch?v=fIcVmZgorZg 
@@ -73,12 +73,15 @@ Terminos claves para busqueda de informacion:
 
 "tics en agricultura"
 
-"ict in agriculture"
-
 "sistema de gestion agropecuaria"
+
+"ict in agriculture"
 
 ## Sistemas de gestion Latinoamericanos
 
+Sismagro es un startup Argentino que creo un sistema web. 
+Lanzaron en 2016 y se mira bonito (http://www.sismagro.com/)
+Presentacion: https://www.youtube.com/watch?v=Dgb3YwGe9u8
 
 ## Sistemas de gestion de codigo abierto
 
