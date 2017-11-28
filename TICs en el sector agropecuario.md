@@ -85,8 +85,8 @@ Presentacion: https://www.youtube.com/watch?v=Dgb3YwGe9u8
 
 ## Sistemas de gestion de codigo abierto
 
--Tania - PHP ( https://github.com/Tanibox/tania )
+* Tania - PHP ( https://github.com/Tanibox/tania )
 
--FarmOS - Drupal ( http://farmos.org/ )
+* FarmOS - Drupal ( http://farmos.org/ )
 
 
