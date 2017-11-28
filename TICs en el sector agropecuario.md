@@ -5,15 +5,6 @@ TICs en el sector agropecuario
 :toc-title:
 :toclevels: 9
 
-# Title
-
-## A
-
-### A2
-
-## B
-
-### B2
 
 
 Sistemas informaticos para empresas
@@ -22,11 +13,22 @@ Contenido de ayuda
 Software libre para gestion agropecuaria
 
 <!-- toc -->
-- [Sistemas informaticos para empresas](#s_o)
+- [Sistemas informaticos para empresas](#Sistemas informaticos para empresas)
 - [Servicio de Fitosalud para Agricultores](#1b)
 - [Contenido de ayuda](#1c)
 - [Software libre para gestion agropecuaria](#1d)
 <!-- tocstop -->
+
+
+# Title
+
+## Sistemas informaticos para empresas
+
+### A2
+
+## B
+
+### B2
 
 Ojo, tomar informacion solo como referencia. Esto es un resumen de diferentes fuentes de informacion encontradas en internet. No se ha hecho un estudio de campo sobre problemas a resolver dentro del sector agropecuario Nicaraguense. 
 
