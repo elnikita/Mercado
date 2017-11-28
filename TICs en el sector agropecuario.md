@@ -7,7 +7,7 @@ Contenido de ayuda
 Software libre para gestion agropecuaria
 
 <!-- toc -->
-- [Servicio de Fitosalud para Agricultores](#1b)
+- [Servicio de Fitosalud](#servicio-fitosalud)
 - [Sistemas informaticos para empresas](#Sistemas-informaticos-para-empresas)
 - [Contenido de ayuda](#1c)
 - [Software libre para gestion agropecuaria](#1d)
@@ -50,7 +50,7 @@ Garantizar el uso y integridad de la informacion que recorre cada una de las tra
 
 Posiblemente las plataformas web no muy hayan sido explotadas todavia. Muchas empresas podrian aun estar contando con software de escritorio. Lo cuall aumenta muchos gastos en la de implementacion.
 
-## 1b Servicio que provea  informacion de como tratar plantas enfermas. Fitotecnia
+## Servicio de Fitosalud
 
 Algun usuario del servicio puede entrar al sitio web con el motivo de  ver las enfermedades mas comunes en su zona de paso visitar el catalogo de productos y ser referido a nuestros usuarios.
 
