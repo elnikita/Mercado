@@ -1,7 +1,7 @@
 # TICs en el sector agropecuario
 
 
-**Atenção**: tomar informacion solo como referencia. Esto es un resumen de diferentes fuentes de informacion encontradas en internet sobre aplicacion de TICs en Latinoamerica. No se ha tomado informacion de ningun estudio de campo nicaraguense. 
+**Atenção**: tomar informacion solo como referencia. El presente documento es un resumen de diferentes fuentes de informacion encontradas en internet sobre aplicacion de TICs en Latinoamerica. No se ha tomado informacion de ningun estudio de campo nicaraguense. 
 
 <!-- toc -->
 - [Problemas generales](#problemas-generales)
