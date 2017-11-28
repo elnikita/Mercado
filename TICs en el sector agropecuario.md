@@ -60,15 +60,18 @@ Precio local de diferentes semillas.
 
 Asociacion con cooperativas locales.
 
-## Recursos de referencia:
+## Recursos de referencia
 
 **Contenido audiovisual:**
 
 "Tecnologías de Información y Comunicación (TIC) aplicadas en la Agricultura"
+
 https://www.youtube.com/watch?v=fIcVmZgorZg 
 
 "Factores estructurales de brechas TIC en agricultura"
+
 https://www.youtube.com/watch?v=a68Xr59W6n0
+
 
 **Terminos claves para busqueda de informacion:**
 
