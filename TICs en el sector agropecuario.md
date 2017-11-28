@@ -1,7 +1,7 @@
 # TICs en el sector agropecuario
 
 
-**Atenção**: tomar informacion solo como referencia. Esto es un resumen de diferentes fuentes de informacion encontradas en internet. No se ha hecho un estudio de campo sobre problemas a resolver dentro del sector agropecuario Nicaraguense. 
+**Atenção**: tomar informacion solo como referencia. Esto es un resumen de diferentes fuentes de informacion encontradas en internet sobre aplicacion de TICs en Latinoamerica. No se ha tomado informacion de ningun estudio de campo nicaraguense. 
 
 <!-- toc -->
 - [Problemas generales](#problemas-generales)
@@ -10,6 +10,7 @@
 - [Recursos de referencia](#recursos-de-referencia)
 - [Sistemas de gestion Latinoamericanos](#sistemas-de-gestion-latinoamericanos)
 - [Sistemas de gestion de codigo abierto](#sistemas-de-gestion-de-codigo-abierto)
+- [Metodologias para estudio de campo (sin abordar)](#estudio-de-campo)
 <!-- tocstop -->
 
 Definiciones:
