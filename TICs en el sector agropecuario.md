@@ -8,7 +8,8 @@ TICs en el sector agropecuario
 - [Sistemas informaticos para empresas](#sistemas-informaticos-para-empresas)
 - [Servicio de Fitosalud](#servicio-de-fitosalud)
 - [Contenido de ayuda](#1c)
-- [Software libre para gestion agropecuaria](#1d)
+- [Sistemas de gestion Latinoamericanos](#sistemas-de-gestion-latinoamericanos)
+- [Sistemas de gestion de codigo abierto](#sistemas-de-gestion-de-codigo-abierto)
 <!-- tocstop -->
 
 Definiciones:
@@ -60,7 +61,7 @@ Precio local de diferentes semillas.
 
 Asociacion con cooperativas locales.
 
-**Contenido de ayuda:**
+## Contenido de ayuda:**
 
 "Tecnologías de Información y Comunicación (TIC) aplicadas en la Agricultura"
 https://www.youtube.com/watch?v=fIcVmZgorZg 
@@ -68,9 +69,19 @@ https://www.youtube.com/watch?v=fIcVmZgorZg
 "Factores estructurales de brechas TIC en agricultura"
 https://www.youtube.com/watch?v=a68Xr59W6n0
 
-Keywords para busqueda:
+Terminos claves para busqueda de informacion:
 
 "tics en agricultura"
+
 "ict in agriculture"
+
 "sistema de gestion agropecuaria"
+
+## Sistemas de gestion Latinoamericanos
+
+## Sistemas de gestion de codigo abierto
+
+-Tania - PHP ( https://github.com/Tanibox/tania )
+-FarmOS - Drupal ( http://farmos.org/ )
+
 
