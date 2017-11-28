@@ -7,7 +7,7 @@ Contenido de ayuda
 Software libre para gestion agropecuaria
 
 <!-- toc -->
-- [Sistemas informaticos para empresas](#Sistemas informaticos para empresas)
+- [Sistemas informaticos para empresas](#s_o)
 - [Servicio de Fitosalud para Agricultores](#1b)
 - [Contenido de ayuda](#1c)
 - [Software libre para gestion agropecuaria](#1d)
@@ -33,7 +33,7 @@ Empresas industrializadas
 
 ----------
 
-## Sistemas informaticos para empresas
+## s_o
 
 Definitivamente existen sistemas de informacion en el sector agropecuario.
 
