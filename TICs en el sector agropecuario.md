@@ -1,14 +1,9 @@
 TICs en el sector agropecuario
 -------------
 
-Sistemas informaticos para empresas
-Servicio de Fitosalud para Agricultores
-Contenido de ayuda
-Software libre para gestion agropecuaria
-
 <!-- toc -->
 - [Sistemas informaticos para empresas](#sistemas-informaticos-para-empresas)
-- [Servicio de Fitosalud](#servicio-fitosalud)
+- [Servicio de Fitosalud](#servicio-de-fitosalud)
 - [Contenido de ayuda](#1c)
 - [Software libre para gestion agropecuaria](#1d)
 <!-- tocstop -->
