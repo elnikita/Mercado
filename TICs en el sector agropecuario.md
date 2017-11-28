@@ -1,17 +1,17 @@
 TICs en el sector agropecuario
 -------------
 
+Sistemas informaticos para empresas
+Servicio de Fitosalud para Agricultores
+Contenido de ayuda
+Software libre para gestion agropecuaria
+
 <!-- toc -->
-- [abc](#abc)
-- [xyz](#xyz)
+- [Sistemas informaticos para empresas](#1a)
+- [Servicio de Fitosalud para Agricultores](#1b)
+- [Contenido de ayuda](#1c)
+- [Software libre para gestion agropecuaria](#1d)
 <!-- tocstop -->
-
-## abc
-This is a b c.
-
-## xyz
-This is x y z.
-
 
 Ojo, tomar informacion solo como referencia. Esto es un resumen de diferentes fuentes de informacion encontradas en internet. No se ha hecho un estudio de campo sobre problemas a resolver dentro del sector agropecuario Nicaraguense. 
 
@@ -33,7 +33,7 @@ Empresas industrializadas
 
 ----------
 
-**Sistemas de informacion para empresas:**
+## 1a **Sistemas de informacion para empresas:**
 
 Definitivamente existen sistemas de informacion en el sector agropecuario.
 
@@ -47,7 +47,7 @@ Garantizar el uso y integridad de la informacion que recorre cada una de las tra
 
 Posiblemente las plataformas web no muy hayan sido explotadas todavia. Muchas empresas podrian aun estar contando con software de escritorio. Lo cuall aumenta muchos gastos en la de implementacion.
 
-**Servicio que provea  informacion de como tratar plantas enfermas. Fitotecnia.**
+## 1b **Servicio que provea  informacion de como tratar plantas enfermas. Fitotecnia.**
 
 Algun usuario del servicio puede entrar al sitio web con el motivo de  ver las enfermedades mas comunes en su zona de paso visitar el catalogo de productos y ser referido a nuestros usuarios.
 
