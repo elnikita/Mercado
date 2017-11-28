@@ -13,17 +13,6 @@ Software libre para gestion agropecuaria
 - [Software libre para gestion agropecuaria](#1d)
 <!-- tocstop -->
 
-
-Sistemas informaticos para empresas
-
-## Sistemas informaticos para empresas
-
-### A2
-
-## B
-
-### B2
-
 Ojo, tomar informacion solo como referencia. Esto es un resumen de diferentes fuentes de informacion encontradas en internet. No se ha hecho un estudio de campo sobre problemas a resolver dentro del sector agropecuario Nicaraguense. 
 
 Definiciones:
@@ -45,7 +34,7 @@ Empresas industrializadas
 ----------
 
 
-Local files
+Sistemas informaticos para empresas
 -----------
 
 Definitivamente existen sistemas de informacion en el sector agropecuario.
