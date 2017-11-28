@@ -1,21 +1,23 @@
 TICs en el sector agropecuario
 -------------
 
+**Atencao**: tomar informacion solo como referencia. Esto es un resumen de diferentes fuentes de informacion encontradas en internet. No se ha hecho un estudio de campo sobre problemas a resolver dentro del sector agropecuario Nicaraguense. 
+
 <!-- toc -->
+- [Problemas generales](#problemas-generales)
 - [Sistemas informaticos para empresas](#sistemas-informaticos-para-empresas)
 - [Servicio de Fitosalud](#servicio-de-fitosalud)
 - [Contenido de ayuda](#1c)
 - [Software libre para gestion agropecuaria](#1d)
 <!-- tocstop -->
 
-
-**Atencao**: tomar informacion solo como referencia. Esto es un resumen de diferentes fuentes de informacion encontradas en internet. No se ha hecho un estudio de campo sobre problemas a resolver dentro del sector agropecuario Nicaraguense. 
-
 Definiciones:
 Sector agropecuario es la parte del sector primario compuesta por el sector agrícola (agricultura) y el sector ganadero o pecuario (ganadería).
 
 
-La agricultura se ejecuta en diferentes ambitos economicos dentro del mercado.
+La agricultura se ejecuta en diferentes ambitos economicos dentro del mercado:
+
+o
 
 La agricultura es el motor productivo de entidades empresariales de diferentes estratos economicos:
 
@@ -26,9 +28,6 @@ Pequena Empresa
 Mediana Empresa
 
 Empresas industrializadas
-
-----------
-
 
 Sistemas informaticos para empresas
 -----------
