@@ -33,7 +33,7 @@ Empresas industrializadas
 
 ----------
 
-## 1a Sistemas de informacion para empresas:
+## 1a
 
 Definitivamente existen sistemas de informacion en el sector agropecuario.
 
