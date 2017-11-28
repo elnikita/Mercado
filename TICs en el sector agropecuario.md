@@ -7,11 +7,13 @@ Contenido de ayuda
 Software libre para gestion agropecuaria
 
 <!-- toc -->
-- [Sistemas informaticos para empresas](#Sistemas-informaticos-para-empresas)
+- [Sistemas informaticos para empresas] (#Sistemas-informaticos-para-empresas)
 - [Servicio de Fitosalud para Agricultores](#1b)
+- [Local files](#local-files)
 - [Contenido de ayuda](#1c)
 - [Software libre para gestion agropecuaria](#1d)
 <!-- tocstop -->
+
 
 Ojo, tomar informacion solo como referencia. Esto es un resumen de diferentes fuentes de informacion encontradas en internet. No se ha hecho un estudio de campo sobre problemas a resolver dentro del sector agropecuario Nicaraguense. 
 
@@ -34,7 +36,7 @@ Empresas industrializadas
 ----------
 
 
-Sistemas informaticos para empresas
+Local files
 -----------
 
 Definitivamente existen sistemas de informacion en el sector agropecuario.
