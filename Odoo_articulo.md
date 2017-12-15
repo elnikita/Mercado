@@ -13,8 +13,7 @@ Este documentro tratara de explicar un poco lo que lleva la planeacion e impleme
 ## Casos donde Odoo podria ser utilizado
 
  -Negocios que comercialicen productos electronicos:
- 
-     -venta y reparacion de articulos relacionados a dispositivos mobiles
+  * venta y reparacion de articulos relacionados a dispositivos mobiles
  
 ##Se nota una inflexibilidad de odoo aqui al no poder adaptarse a negocios cuyos procesos sean otros del de inventario de articulos y diferentes transacciones.  
 
