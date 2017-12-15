@@ -26,7 +26,7 @@ WSGI
 
 Front-end:
 
-Formas de instalacion
+## Formas de instalacion
 
 -Servidor local
 Se instalo Odoo correctamente en Ubuntu.
@@ -39,7 +39,7 @@ Investigar sobre posible consumo de una aplicacion de odoo y de alli tratar de i
 
 De cuanto es la inversion para ofrecer un Saas de Odoo para diferentes clientes o hasta ofrecerlo a revendedores? 
 
-##Modulos populares
+## Modulos populares
 
 Inventario
 CRM
