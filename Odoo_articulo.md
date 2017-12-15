@@ -43,9 +43,13 @@ De cuanto es la inversion para ofrecer un Saas de Odoo para diferentes clientes 
 ## Modulos populares
 
 Inventario
+
 CRM
+
 Punto de venta
+
 Reportes de Ventas
+
 Compras de productos
 
 ## Planeacion 
