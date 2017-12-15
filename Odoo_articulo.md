@@ -2,7 +2,7 @@ Este documentro tratara de explicar un poco lo que lleva la planeacion e impleme
 
 <!-- toc -->
 - [Casos donde Odoo podria ser utilizado](#casos)
-- [Arquitectura de Odoo](#arquitectura_odoo)
+- [Arquitectura de Odoo](#arquitectura-odoo)
 - [Formas de instalacion](#instalacion)
 - [Modulos populares](#modulos)
 - [Planeacion ](#planeacion)
