@@ -1,8 +1,8 @@
 Este documentro tratara de explicar un poco lo que lleva la planeacion e implementacion de Odoo. 
 
 <!-- toc -->
-- [Casos donde Odoo podria ser utilizado](#casos)
-- [Arquitectura de Odoo](#arquitectura-odoo)
+- [Casos donde Odoo podria ser utilizado](#casos-donde-Odoo-podria-ser-utilizado)
+- [Arquitectura de Odoo](#arquitectura-de-odoo)
 - [Formas de instalacion](#instalacion)
 - [Modulos populares](#modulos)
 - [Planeacion](#planeacion)
@@ -39,7 +39,7 @@ Investigar sobre posible consumo de una aplicacion de odoo y de alli tratar de i
 
 De cuanto es la inversion para ofrecer un Saas de Odoo para diferentes clientes o hasta ofrecerlo a revendedores? 
 
-Modulos populares
+##Modulos populares
 
 Inventario
 CRM
@@ -47,7 +47,7 @@ Punto de venta
 Reportes de Ventas
 Compras de productos
 
-Planeacion 
+## Planeacion 
 
 Se comenzo por entender los procesos que se requieren automatizar, mas que todo se dio una lista da de requerimientos que el sistema debe cumplir. 
 
@@ -57,7 +57,7 @@ Se comenzo por entender los procesos que se requieren automatizar, mas que todo 
 
 ##En realidad no provee todo por que si lo proveyera todo seria un exito desde un inicio.
 
-Como cobrar por los servicios
+## Como cobrar por los servicios
 
 -Hacer instalaciones gratuitas para coger experiencia.
 -Una vez con experiencia se puede cobrar por la instalacion, de igual manera
@@ -65,4 +65,4 @@ Como cobrar por los servicios
 
 Anadir cobro generado por consumo de servidor local y en un Iaas. 
 
-Posibles problemas en modo ejecucion:
+## Posibles problemas en modo ejecucion:
