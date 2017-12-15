@@ -1,13 +1,13 @@
 Este documentro tratara de explicar un poco lo que lleva la planeacion e implementacion de Odoo. 
 
 <!-- toc -->
-- [Casos donde Odoo podria ser utilizado](#casos-donde-Odoo-podria-ser-utilizado)
+- [Casos donde Odoo podria ser utilizado](#casos-donde-odoo-podria-ser-utilizado)
 - [Arquitectura de Odoo](#arquitectura-de-odoo)
-- [Formas de instalacion](#instalacion)
-- [Modulos populares](#modulos)
+- [Formas de instalacion](#formas-de-instalacion)
+- [Modulos populares](#modulos-populares)
 - [Planeacion](#planeacion)
-- [Como cobrar por los servicios](#cobro)
-- [Posibles problemas en modo ejecucion](#problemas)
+- [Como cobrar por los servicios](#como-cobrar-por-los-servicios)
+- [Posibles problemas en modo ejecucion](#posibles-problemas-en-modo-ejecucion)
 <!-- tocstop -->
 
 ## Casos donde Odoo podria ser utilizado
