@@ -10,7 +10,7 @@ Este documentro tratara de explicar un poco lo que lleva la planeacion e impleme
 - [Posibles problemas en modo ejecucion](#problemas)
 <!-- tocstop -->
 
-Casos donde Odoo podria ser utilizado:
+## Casos donde Odoo podria ser utilizado:
 
  -Negocios que comercialicen productos electronicos:
      -venta y reparacion de articulos relacionados a dispositivos mobiles
@@ -18,7 +18,7 @@ Casos donde Odoo podria ser utilizado:
  
 ##Se nota una inflexibilidad de odoo aqui al no poder adaptarse a negocios cuyos procesos sean otros del de inventario de articulos y diferentes transacciones.  
 
-Arquitectura de Odoo
+## Arquitectura de Odoo
 
 Python 3
 Open Object Framework
