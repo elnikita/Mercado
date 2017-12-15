@@ -21,7 +21,9 @@ Este documentro tratara de explicar un poco lo que lleva la planeacion e impleme
 ## Arquitectura de Odoo
 
 Python 3
+
 Open Object Framework
+
 WSGI
 
 Front-end:
