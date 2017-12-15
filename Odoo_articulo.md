@@ -61,10 +61,12 @@ Se comenzo por entender los procesos que se requieren automatizar, mas que todo 
 
 ## Como cobrar por los servicios
 
--Hacer instalaciones gratuitas para coger experiencia.
+-Hacer instalaciones gratuitas para coger experiencia
+
 -Una vez con experiencia se puede cobrar por la instalacion, de igual manera
+
 -Cobrar por soporte ofrecido luego de instalaciones
 
-Anadir cobro generado por consumo de servidor local y en un Iaas. 
+*Anadir cobro generado por consumo de servidor local y en un Iaas. 
 
 ## Posibles problemas en modo ejecucion:
