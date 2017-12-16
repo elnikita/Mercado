@@ -80,8 +80,10 @@ Se comenzo por entender los procesos que se requieren automatizar, mas que todo 
 
 ## Comunidad
 
--Creacion de grupo en facebook si el interes y el tamano de Odoo lo requiere. 
+-Creacion de grupo en facebook si el interes y el tamano de Odoo lo requiere
+
 -Reproducir informacion relacionada a la implementacion de Odoo:
+
  * Instrucciones tecnicas
  * Enlaces a comunidad internacional
  * Realizar aportes al codigo de Odoo
