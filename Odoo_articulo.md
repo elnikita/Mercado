@@ -8,6 +8,7 @@ Este documentro tratara de explicar un poco lo que lleva la planeacion e impleme
 - [Planeacion](#planeacion)
 - [Como cobrar por los servicios](#como-cobrar-por-los-servicios)
 - [Posibles problemas en modo ejecucion](#posibles-problemas-en-modo-ejecucion)
+- [Comunidad](#comunidad)
 <!-- tocstop -->
 
 ## Casos donde Odoo podria ser utilizado
@@ -75,4 +76,13 @@ Se comenzo por entender los procesos que se requieren automatizar, mas que todo 
 
 *Anadir cobro generado por consumo de servidor local y en un Iaas. 
 
-## Posibles problemas en modo ejecucion:
+## Posibles problemas en modo ejecucion
+
+## Comunidad
+
+-Creacion de grupo en facebook si el interes y el tamano de Odoo lo requiere. 
+-Reproducir informacion relacionada a la implementacion de Odoo:
+   -Instrucciones tecnicas
+   -Enlaces a comunidad internacional
+   -Realizar aportes al codigo de Odoo
+   
